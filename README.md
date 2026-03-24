@@ -20,8 +20,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: SARVESH.M
-RegisterNumber: 212225240140
+Developed by: VIJAYARAGHAVAN
+RegisterNumber: 212225100058
 
 import numpy as np
 from scipy.linalg import lu
@@ -36,8 +36,8 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: SARVESH.M
-RegisterNumber: 212225240140
+Developed by: VIJAYARAGHAVAN
+RegisterNumber: 212225100058
 
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
@@ -51,10 +51,12 @@ print(x)
 ```
 
 ## Output:
+<img width="1283" height="861" alt="Screenshot 2026-03-24 143606" src="https://github.com/user-attachments/assets/2933e954-3101-4a47-8b12-10ee0182d871" />
 
-<img width="1527" height="791" alt="Screenshot 2026-02-07 082301" src="https://github.com/user-attachments/assets/4317060f-54cd-4925-a4be-a8acf2eaa3c4" />
 
-<img width="1632" height="669" alt="Screenshot 2026-02-07 082316" src="https://github.com/user-attachments/assets/190384e0-04f4-4165-b43e-c1e27bc2b496" />
+<img width="934" height="691" alt="Screenshot 2026-03-24 080240" src="https://github.com/user-attachments/assets/4891ad9b-a290-4c31-91ba-302351103de4" />
+
+
 
 
 ## Result:
